@@ -3,8 +3,8 @@ require "bundler/setup"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "user@domain.com"
-document_root  = "~/website.com/"
+ssh_user       = "lucas@neura.lucasefe.com.ar"
+document_root  = "/var/apps/www.lucasefe.com.ar/2011"
 deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy

@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Podcasts"
+date: 2011-08-02 18:37
+comments: true
+categories: 
+---
+
+Clearly, there are lots of sources of information on the web. Blogs, News feeds, Twitter, forums, podcasts, screencasts, etc. 
+
+With work, family, friends, and other related stuff, I don't have much time to exhaust all of them, so I have to choose. Since I ride a bike pretty much all the time, my favorite way of learning is by listening to some podcasts and by watching screencats. 
+
+## Free
+- [The Ruby Show](http://rubyshow.com/) from Jason Seifer and Peter Cooper.
+- [The JavaScript Show](http://javascriptshow.com/) Same guys. 
+- [Ruby Rogues](http://rubyrogues.com) Good podcast featuring ruby personalities. 
+- [Ruby5](http://ruby5.envylabs.com/) The latest news in the Ruby and Rails community
+- [The Changelog](http://thechangelog.com/) with Wynn Netherland and Adam Stacoviak.
+- [RailsCasts](http://www.railscasts.com) by Ryan Bates
+
+## Paid
+- [Destroy all software](https://www.destroyallsoftware.com) from Gary Bernhardt. This like getting advice from a pro. Gary is super smart and talks about many topics. Ruby is one of them, but Python, VIM, and others are mentioned. 
+- [Peepcode](http://peepcode.com) from Geoffrey Grosenbach. Do I really have to explain what peepcode is? Go, boy, get yourself an unlimited subscription right now. 

@@ -6,6 +6,7 @@ comments: true
 categories: 
 - ruby
 - legacy
+- spanish
 ---
 
 Este fin de semana pasado se realiz&oacute; la Acts As Rubylit 2010 en la provincia de Santa Fe, Argentina. 

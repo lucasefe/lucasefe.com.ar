@@ -4,7 +4,9 @@ title: "Adding Custom Input Fields to Simple Form"
 date: 2010-10-04 17:48
 comments: true
 categories: 
-  - Ruby
+- ruby
+- rails
+- english
 ---
 
 In a project I am using [Simple Form](http://github.com/plataformatec/simple_form) from the guys of PlataformaTec as a Form Builder. At the beginning of the project, I decided to switch from formtastic to this one because I am big fan of what José Valim is doing. I really like his code, and I think that what he writes is always (as far as I know) extendible, usable, and of course, simple to use. 

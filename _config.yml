@@ -4,12 +4,12 @@
 
 url: http://blog.lucasefe.com.ar
 title: 4.to_s 
-subtitle: Blogging to give something back...
+subtitle: Lucas Efe's blog about programming and music... 
 author: Lucas Efe
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /feed/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:

@@ -9,23 +9,23 @@ footer: true
 
 ## Web Sites
 
-- [www.mycharitybox.com](https://www.mycharitybox.com)
-- [www.rubyconfargentina.org](http://rubyconfargentina.org)
-- [www.suipit.com](http://www.suipit.com)
-- [www.checupcakes.com.ar](http://www.checupcakes.com.ar)
+- [www.mycharitybox.com](https://www.mycharitybox.com) Online Donations System for Organizations and Individuals
+- [www.rubyconfargentina.org](http://rubyconfargentina.org) Ruby Argentina Conference
+- [www.suipit.com](http://www.suipit.com) Project Manager in Spanish
+- [www.checupcakes.com.ar](http://www.checupcakes.com.ar) Online Shop for Cupcake Shop. 
 
 ## Unpublished or Private Projects
 
-- Network Provisioning Backend for RIDSA.
-- InterOffice for RIDSA: Data Migration Service from legacy system to company's ERP. 
-- ID Server for RIDSA: Single Sign On Authentication System (bootstrapped from a basic OpenID Server).
+- Network Provisioning Backend for [RIDSA](http://www.ridsa.com.ar/).
+- InterOffice for [RIDSA](http://www.ridsa.com.ar/): Data Migration Service from legacy system to company's ERP. 
+- ID Server for [RIDSA](http://www.ridsa.com.ar/): Single Sign On Authentication System (bootstrapped from a basic [OpenID](http://openid.net/) Server).
 - YidCafe: Forum based system oriented to the jewish community. 
 
 ## Ruby Gems
 
-- [themes_for_rails](https://github.com/lucasefe/themes_for_rails)
-- [core-generators](https://github.com/lucasefe/core-generators)
+- [themes_for_rails](https://github.com/lucasefe/themes_for_rails) Theming solution for Rails 3 applications. 
+- [core-generators](https://github.com/lucasefe/core-generators) Basic generators for bootstrapping Rails applications.
 
 ## Talks
 
-I spoked in a couple of regional Ruby Events like the Ruby Meet Ups in Buenos Aires, or Ruby Acts As Lit in Santa Fe, Argentina, always about Ruby or Rails. 
+I spoke in a couple of regional Ruby Events like the [Ruby Meet Ups](http://ruby.com.ar) in Buenos Aires, or [Ruby Acts As Lit](http://www.rubylit.com.ar) in Santa Fe, Argentina, always about Ruby or Rails. Also on the 2006 [CaFeLug](http://www.cafelug.org.ar/). 

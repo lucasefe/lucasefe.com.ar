@@ -16,15 +16,14 @@ recuerdo mal, a principio de mayo nos juntamos por primera vez en Urban Station
 encarar la aventura de realizar este ambicioso proyecto. 
 
 Pasaron los meses y fuimos avanzando. Creamos el website, conseguimos los
-primeros sponsors (github e inaka networks), y anunciamos los primero speakers (Aaron Patterson y Luis
-Lavena, si la memoria no me falla). 
+primeros sponsors ([github](http://gitub.com) e [inaka networks](http://inakanetworks.com/)), y anunciamos los primero speakers ([Aaron Patterson](http://tenderlovemaking.com/) y [Luis Lavena](http://blog.mmediasys.com/), si la memoria no me falla). 
 
 ![Tenderlove se zarpa en
 onda](http://farm7.static.flickr.com/6100/6351795589_e66a4018ce.jpg "Tenderlove
  se zarpa en onda")
 
-Qué alegrón fue saber que podíamos hacer el evento en el Konex! La Casa
-Cultural Konex es un lugar que
+Qué alegrón fue saber que podíamos hacer el evento en el Konex! [La Casa
+Cultural Konexi](http://www.ciudadculturalkonex.org/web/) es un lugar que
 tiene onda y no es acartonado como los habituales lugares donde se
 hacen conferencias. Graffitties, minimalismo y luces de neón, entre otras
 cosas.

@@ -10,6 +10,8 @@ footer: true
 ## Web Sites
 
 - [www.mycharitybox.com](https://www.mycharitybox.com) Online Donations System for Organizations and Individuals
+- [awedition.com.ar](aweditions.com.ar) Website part of the RallyOnRails 2011
+  competition. We made it during a weekend. Awesome experience. 
 - [www.rubyconfargentina.org](http://rubyconfargentina.org) Ruby Argentina Conference
 - [www.suipit.com](http://www.suipit.com) Project Manager in Spanish
 - [www.checupcakes.com.ar](http://www.checupcakes.com.ar) Online Shop for Cupcake Shop. 
@@ -28,4 +30,8 @@ footer: true
 
 ## Talks
 
-I spoke in a couple of regional Ruby Events like the [Ruby Meet Ups](http://ruby.com.ar) in Buenos Aires, or [Ruby Acts As Lit](http://www.rubylit.com.ar) in Santa Fe, Argentina, always about Ruby or Rails. Also on the 2006 [CaFeLug](http://www.cafelug.org.ar/). 
+- This year I've been part of the RubyConf Argentina's organizers team. Great
+  experience. You can find me on some of this
+  [images](http://www.flickr.com/groups/rubyconfargentina2011/pool/with/6325823674/)
+
+- I spoke in a couple of regional Ruby Events like the [Ruby Meet Ups](http://ruby.com.ar) in Buenos Aires, or [Ruby Acts As Lit](http://www.rubylit.com.ar) in Santa Fe, Argentina, always about Ruby or Rails. Also on the 2006 [CaFeLug](http://www.cafelug.org.ar/). 

@@ -3,14 +3,14 @@ $mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace;
 
 // Fonts
 .heading {
-  font-family: 'Bowlby One SC', "Helvetica Neue", Arial, sans-serif;
+  font-family: 'Open Sans', "Helvetica Neue", Arial, sans-serif;
 }
 .sans { font-family: "Helvetica Neue", Arial, sans-serif; }
 .serif { font-family: Georgia, Times, "Times New Roman", serif; }
 .mono { font-family: $mono; }
 
 body > header h1 {
-  font-size: 2.2em;
+  font-size: 2.0em;
   @extend .heading;
   font-weight: normal;
   line-height: 1.2em;
@@ -18,12 +18,12 @@ body > header h1 {
 }
 
 body {
-  line-height: 1.5em;
+  line-height: 1.4em;
   color: $text-color;
   @extend .serif;
 }
 h1 {
-  font-size: 2.2em;
+  font-size: 2.0em;
   line-height: 1.2em;
 }
 

@@ -1,6 +1,9 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
-
+@mixin text-shadow($horizontal : 1px, $vertical : 1px, $blur : 0, $color : black){
+  text-shadow: $horizontal $vertical $blur $color;
+  -webkit-text-shadow: $horizontal $vertical $blur $color;
+}
 a {
   text-decoration: none;
   font-weight: bold;
@@ -8,4 +11,14 @@ a {
 }
 a:visited {
   color: black;
+}
+
+
+body > header {
+  background-color: #555555;
+  background-image: -moz-linear-gradient(left top , rgba(0, 0, 0, 0.1) 25%, transparent 25%, transparent 50%, rgba(0, 0, 0, 0.1) 50%, rgba(0, 0, 0, 0.1) 75%, transparent 75%, transparent);
+  background-size: 80px 80px;
+  hgroup h1 {
+    @include text-shadow;
+  }
 }

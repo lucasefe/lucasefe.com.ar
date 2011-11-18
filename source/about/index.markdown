@@ -7,8 +7,9 @@ sharing: true
 footer: true
 ---
 
-Well, my name is Lucas Florio, a.k.a Lucas Efe. I'm a programmer / musician. 
+Well, my name is Lucas Florio, a.k.a Lucas Efe. I'm a programmer / musician, and I live in Buenos Aires, Argentina. 
 
+![Lucas Florio](http://farm7.static.flickr.com/6019/6320400067_90745b6461_m.jpg "Me, at a pre conference party. ")
 Love to solve problems. Love to create elegant solutions to complex problems. I enjoy working (mostly) with Ruby and now with JavaScript. Those are my favorite programming languages today... but that changes always. We change... so tomorrow could be something else, I don't know.
 
 As a musician, I've always worked on my own musical projects. After struggling a lot with bands and the music industry in Argentina, I am taking some time to think what I really want to do. I still enjoy playing my dear Rickenbacker Bass whenever I have the time.

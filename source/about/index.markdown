@@ -14,8 +14,7 @@ Love to solve problems. Love to create elegant solutions to complex problems. I 
 
 As a musician, I've always worked on my own musical projects. After struggling a lot with bands and the music industry in Argentina, I am taking some time to think what I really want to do. I still enjoy playing my dear Rickenbacker Bass whenever I have the time.
 
-You can see some of my work on my [portfolio](/portfolio). And you can reach me
-by email (lucasefe at gmail).
+You can see some of my work on my [portfolio](/portfolio). And you can reach me by email (lucasefe at gmail).
 
 I might be looking for a job ;)
 

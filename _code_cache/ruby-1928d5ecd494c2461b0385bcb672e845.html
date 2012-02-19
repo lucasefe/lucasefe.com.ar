@@ -1,0 +1,17 @@
+<div class="highlight"><pre><span class="k">module</span> <span class="nn">SimpleForm</span>
+  <span class="k">module</span> <span class="nn">Inputs</span>
+    <span class="k">class</span> <span class="nc">SubdomainInput</span> <span class="o">&lt;</span> <span class="no">Base</span>
+      <span class="k">def</span> <span class="nf">input</span>
+        <span class="s2">&quot;</span><span class="se">\#</span><span class="s2">{protocol}</span><span class="se">\#</span><span class="s2">{@builder.text_field(attribute_name, input_html_options)}.</span><span class="se">\#</span><span class="s2">{domain}&quot;</span>
+      <span class="k">end</span>
+      <span class="k">def</span> <span class="nf">domain</span>
+        <span class="n">input_options</span><span class="o">[</span><span class="ss">:domain</span><span class="o">]</span>
+      <span class="k">end</span>
+      <span class="k">def</span> <span class="nf">protocol</span>
+        <span class="n">input_options</span><span class="o">[</span><span class="ss">:protocol</span><span class="o">]</span> <span class="o">||</span> <span class="s2">&quot;http://&quot;</span>
+      <span class="k">end</span>
+    <span class="k">end</span>
+  <span class="k">end</span>
+<span class="k">end</span>
+</pre>
+</div>

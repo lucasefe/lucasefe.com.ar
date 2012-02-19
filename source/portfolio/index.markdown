@@ -26,12 +26,16 @@ footer: true
 ## Ruby Gems
 
 - [themes_for_rails](https://github.com/lucasefe/themes_for_rails) Theming solution for Rails 3 applications. 
-- [core-generators](https://github.com/lucasefe/core-generators) Basic generators for bootstrapping Rails applications.
+- [flattener](https://github.com/lucasefe/flattener) Hard to explain... Need to flat several objects so it gets easier to handle one multiple object creation of objects. Good for masquerading internal APIs. 
+- [garlenko](https://github.com/lucasefe/garlenko) Address book reader for Gmail, Hotmail and Yahoo. 
+- [core-generators](https://github.com/lucasefe/core-generators) Basic generators for bootstrapping Rails applications (kind of old now...)
 
 ## Talks
 
 - This year I've been part of the RubyConf Argentina's organizers team. Great
   experience. You can find me on some of this
   [images](http://www.flickr.com/groups/rubyconfargentina2011/pool/with/6325823674/)
+
+- Ruby Argentina Monthly Meetups: Couple of talks there about [Grape](https://github.com/intridea/grape) and [Representable](http://github.com/apotonick/representable)
 
 - I spoke in a couple of regional Ruby Events like the [Ruby Meet Ups](http://ruby.com.ar) in Buenos Aires, or [Ruby Acts As Lit](http://www.rubylit.com.ar) in Santa Fe, Argentina, always about Ruby or Rails. Also on the 2006 [CaFeLug](http://www.cafelug.org.ar/). 

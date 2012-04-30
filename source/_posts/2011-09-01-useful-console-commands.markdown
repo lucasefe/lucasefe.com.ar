@@ -6,10 +6,10 @@ comments: true
 categories: 
 ---
 
-## To be execute on bash or zsh, as far as I know
+## To be executed on bash or zsh, as far as I know:
 
 Go to the end of the line:
-ctrl+e
+`ctrl+e`
 
 Go to the beginning of the line:
 `ctrl+a`
@@ -22,7 +22,6 @@ Move by word
 
 Delete words:
 `alt+d` (remember that you need to be in the beginning of the word)
-
 
 ### Update (thanks to @etagwerker)
 

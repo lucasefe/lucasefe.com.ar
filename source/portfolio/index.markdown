@@ -9,12 +9,12 @@ footer: true
 
 ## Web Sites
 
-- [www.mycharitybox.com](https://www.mycharitybox.com) Online Donations System for Organizations and Individuals
+- [www.mycharitybox.com](https://www.mycharitybox.com) Online Donations System for Organizations and Individuals. Built with RoR, but using Backbone.js, and HTML5/CSS3 on the front end. 
 - [www.aktionapp.com](https://www.aktionapp.com) Custom Online Donations System based on the same system I built for Nadanu. 
-- [awedition.com.ar](aweditions.com.ar) Website part of the RallyOnRails 2011 competition.
+- [awedition.com.ar](aweditions.com.ar) Website part of the RallyOnRails 2011 competition, built with RoR.
   competition. We made it during a weekend. Awesome experience. 
-- [www.rubyconfargentina.org](http://rubyconfargentina.org) Ruby Argentina Conference. [code](https://github.com/lucasefe/rubyconfar-website)
-- [www.suipit.com](http://www.suipit.com) Project Management Application in Spanish
+- [www.rubyconfargentina.org](http://rubyconfargentina.org) Ruby Argentina Conference, in 2011, built with Sinatra. [code](https://github.com/lucasefe/rubyconfar-website)
+- [www.suipit.com](http://www.suipit.com) Project Management Application in Spanish, built with RoR. 
 - [www.checupcakes.com.ar](http://www.checupcakes.com.ar) Online Shop for a Cupcake Shop. 
 
 ## Unpublished or Private Projects
